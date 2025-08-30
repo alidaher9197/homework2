@@ -52,5 +52,6 @@
         Beirut <br>
         Shweifat <br>
     </address>
+    <a href="index2.php">second page about lists</a>
 </body>
 </html>
